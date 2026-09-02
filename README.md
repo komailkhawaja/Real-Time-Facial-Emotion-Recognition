@@ -39,15 +39,9 @@ A deep learning project that detects human facial emotions in real time using a 
 Real-Time-Facial-Emotion-Recognition/
 │
 ├── Emotion_Recognition.ipynb
-├── emotion_model.keras
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-│
-└── screenshots/
-    ├── training_results.png
-    ├── confusion_matrix.png
-    └── webcam_detection.png
+
 ```
 
 ## Dataset
